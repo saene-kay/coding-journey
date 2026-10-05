@@ -1,0 +1,5 @@
+print("Hi, welcome to your coding journey!")
+name = input("What is your name? ")
+print(f"Hi {name}!")
+role = input("What is your role? ")
+print(f"Ah, so you're a {role}, {name}!")
